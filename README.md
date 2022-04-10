@@ -6,3 +6,6 @@ Repositório destinado a pequenos projetos com predominância do CSS e JavaScrip
 
 ### Projeto Moon
    -- Exercicio de tecnica Parallax
+  
+### AmazonBox_Scroll add-10/04
+  -- Caixa amazon gira conforme a barra de scroll mexe
