@@ -9,3 +9,6 @@ Repositório destinado a pequenos projetos com predominância do CSS e JavaScrip
   
 ### AmazonBox_Scroll add-10/04
   -- Caixa amazon gira conforme a barra de scroll mexe
+
+### Nike Box add-18/04
+  -- Caixa da Nike que gira automaticamente com CSS
